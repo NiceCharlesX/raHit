@@ -1,7 +1,11 @@
 This is a implementation in c++ of the code used for: 
 rαHit: Achieving α-Approximation with Highest Probability under Uncertain Scoring Function
 
-The folder "2d-algo" contains implementations of two 2D algorithms. The folder "md-algo" contains implementations of five MD algorithms. The folder "data" contains all used datasets.
+The folder "2d-algo" contains implementations of two 2D algorithms. See the file "2d-algo/readme.txt" for details. 
+
+The folder "md-algo" contains implementations of five MD algorithms. See the file "md-algo/readme.txt" for details. 
+
+The folder "data" contains all used datasets.
 
 =============================================================
 
